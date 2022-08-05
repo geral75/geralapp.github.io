@@ -1,0 +1,187 @@
+[
+ 
+    
+    {
+        "categoria": "Geografía",
+        "pregunta": "con cuantos departamento cuenta Nicaragua",
+        "respuesta": "15",
+        "incorrecta1": "20",
+        "incorrecta2": "7",
+        "incorrecta3": "27",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "cuantos continentes hay en el mundo",
+        "respuesta": "7",
+        "incorrecta1": "9",
+        "incorrecta2": "33",
+        "incorrecta3": "4",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué significa Geografía",
+        "respuesta": "es un término acuñado en Grecia en el siglo III a.C. que proviene de las voces geo, tierra, y grafo, escribir; por lo tanto, geografía significa, descripción de la Tierra.es un término acuñado en Grecia en el siglo III a.C. que proviene de las voces geo, tierra, y grafo, escribir; por lo tanto, geografía significa, descripción de la Tierra.",
+        "incorrecta1": "Sigla de ácido ribonucleico, ácido nucleico que participa en la síntesis de las proteínas y realiza la función de mensajero de la información genética.",
+        "incorrecta2": "Relativo a Inglaterra, parte integrante del Reino Unido, o a sus habitantes.",
+        "incorrecta3": "Que es antiguo y está arraigado; especialmente referido a costumbres o creencias.",
+        "imagen": ""
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿cual es el río más extenso del mundo?",
+        "respuesta": "El río Nilo",
+        "incorrecta1": "El río coco",
+        "incorrecta2": "EL río Amazona",
+        "incorrecta3": "El río Misispi",
+        "imagen": ""
+    },
+    
+    {
+        "categoria": "Geografía",
+        "pregunta": "Cual es el país que tiene más habitantes",
+        "respuesta": "China",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Estados Unidos",
+        "imagen": ""
+    },
+    {
+        "categoria": "Lengua y Literatura",
+        "pregunta": "Quién es el autor del himno nacional de Nicaragua?",
+        "respuesta": "SALOMÓN IBARRA MAYORGA",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Rubén Darío",
+        "imagen": ""
+    },
+    {
+        "categoria": "Lengua y literatura",
+        "pregunta": "¿Quién es el poeta más famoso de Nicaragua?",
+        "respuesta": "Rubén Darío",
+        "incorrecta1": "Alfonso cortés",
+        "incorrecta2": "Pablo Antonio Cuadra",
+        "incorrecta3": "Ernesto Cardenal"
+    },
+    
+    {
+        "categoria": "Lengua y literatura",
+        "pregunta": "¿Cuantos género literarios existen",
+        "respuesta": "5",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "2\r"
+    },
+    {
+        "categoria": "lengua y literatura",
+        "pregunta": "¿Cuantos idiomas existen en el mundo?",
+        "respuesta": "7,100",
+        "incorrecta1": "900",
+        "incorrecta2": "800",
+        "incorrecta3": "1000",
+        "imagen": ""
+    },
+   
+   
+    {
+        "categoria": "Lengua y literatura",
+        "pregunta": "Qué es un verbo",
+        "respuesta": "SON PALABRAS QUE EXPRESAN ACCIONES O ESTADOS. Aunque un verbo tiene muchas formas verbales, para nombrarlos se suele usar el INFINITIVO. En sintaxis, el verbo es el núcleo del predicado.",
+        "incorrecta1": "representan a los seres vivos que tienen la capacidad de moverse, y que carecen de paredes celulares y clorofila. Esto quiere decir, que son completamente diferentes a las plantas como se puede apreciar a simple vista.",
+        "incorrecta2": "es un dispositivo informático que es capaz de recibir, almacenar y procesar información de una forma útil. Una computadora está programada para realizar operaciones lógicas o aritméticas de forma automática.",
+        "incorrecta3": "Sigla de ácido desoxirribonucleico, proteína compleja que se encuentra en el núcleo de las células y constituye el principal constituyente del material genético de los seres vivos.",
+        "imagen": "",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta":"¿Cuanto es la raiz cuadrada de 16",
+        "respuesta": "4",
+        "incorrecta1": "9",
+        "incorrecta2": "2",
+        "incorrecta3": "6",
+        "imagen": "",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta": "¿cual es el valor de π?",
+        "respuesta": "3.14",
+        "incorrecta1": "2.19",
+        "incorrecta2": "4.56",
+        "incorrecta3": "5.55"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta": "¿cuales son las razones trigonometricas que posee un triángulo?",
+        "respuesta": "Sen,coseno y tangente",
+        "incorrecta1": "catetos",
+        "incorrecta2": "hipotenusa",
+        "incorrecta3": "la medida de los ángulos"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta": "cual es la raíz cuadrada de 100",
+        "respuesta": "10",
+        "incorrecta1": "25",
+        "incorrecta2": "30",
+        "incorrecta3": "50"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta": "Cuanto es el seno de 65",
+        "respuesta": "0.82682867949",
+        "incorrecta1": "9.090809065654",
+        "incorrecta2": "0.9865342195",
+        "incorrecta3": "0.8978134267"
+    },
+    {
+        "categoria": "iglés",
+        "pregunta":"Qué significa play",
+        "respuesta": "jugar",
+        "incorrecta1": "comer",
+        "incorrecta2": "beber",
+        "incorrecta3": "saltar"
+    },
+    {
+        "categoria": "inglés",
+        "pregunta": "Cual es la forma correcta del pronombre am",
+        "respuesta": "I am",
+        "incorrecta1": "SHE am",
+        "incorrecta2": "THEY am",
+        "incorrecta3": "WE am",
+        "imagen": "",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "iglés",
+        "pregunta": "the past progressive is:",
+        "respuesta": "Ing",
+        "incorrecta1": "Mor-er",
+        "incorrecta2": "am-are",
+        "incorrecta3": "is",
+        "imagen": "",
+        "objectFit": "contain"
+    },
+   
+    {
+        "categoria": "iglés",
+        "pregunta": "En inglés el verbo bailar es ",
+        "respuesta": "Dance",
+        "incorrecta1": "eat",
+        "incorrecta2": "play",
+        "incorrecta3": "danced"
+    },
+    {
+        "categoria": "inglés",
+        "pregunta": "En inglés que significa pink",
+        "respuesta": "rosado",
+        "incorrecta1": "morado",
+        "incorrecta2": "azul",
+        "incorrecta3": "celeste"
+    }
+   
+]
